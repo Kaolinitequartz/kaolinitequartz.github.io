@@ -1,7 +1,7 @@
 ---
 title: "Uranium contamination mediating soil and ore microbial community assembly at four mining sites, South China"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2025
