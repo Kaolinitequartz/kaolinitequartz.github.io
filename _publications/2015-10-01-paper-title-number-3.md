@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Uranium contamination mediating soil and ore microbial community assembly at four mining sites, South China"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
