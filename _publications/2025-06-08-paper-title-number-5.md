@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Combined Effects of Humic Substances and Clay Minerals on U(VI) Bioreduction"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
