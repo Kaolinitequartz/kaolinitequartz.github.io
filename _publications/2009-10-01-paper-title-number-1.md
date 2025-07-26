@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Effects of EDTA and Bicarbonate on U(VI) Reduction by Reduced Nontronite"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
