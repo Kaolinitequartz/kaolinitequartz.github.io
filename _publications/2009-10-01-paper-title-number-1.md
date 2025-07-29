@@ -1,11 +1,11 @@
 ---
-title: "Effects of EDTA and Bicarbonate on U(VI) Reduction by Reduced Nontronite"
+title: "Combined effects of humic substances and clay minerals on U (VI) bioreduction"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Environmental Science & Technology'
+date: 2022-12-01
+venue: 'Geochimica et Cosmochimica Acta'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
