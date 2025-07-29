@@ -3,7 +3,7 @@ title: "Uranium contamination mediating soil and ore microbial community assembl
 collection: publications
 category: manuscripts
 permalink: /publication/2025-02-19-paper-title-number-6
-excerpt: 'Hongyu Chen, Yizhi Sheng, Shuaidi Wang, Yu Chen, Zhiyuan Qiao, Huaming Guo, and Hailiang Dong'
+excerpt: 'Hongyu Chen, Yizhi Sheng, _**Shuaidi Wang**_, Yu Chen, Zhiyuan Qiao, Huaming Guo, and Hailiang Dong'
 date: 2025-02-19
 venue: 'Frontiers in Microbiology'
 paperurl: 'http://kaolinitequartz.github.io/files/2025, Chen et al., FM.pdf'
