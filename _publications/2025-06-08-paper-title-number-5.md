@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Xiaowen Zhang, Yizhi Sheng, Hailiang Dong, Xinyi Zhou, and Shuaidi Wang'
 date: 2024-08-21
-venue: '2024 Goldschmidt Conference'
+venue: 'Goldschmidt Conference'
 ---
 Abstract
 
