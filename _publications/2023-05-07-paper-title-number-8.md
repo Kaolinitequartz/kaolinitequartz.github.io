@@ -1,5 +1,5 @@
 ---
-title: "EDTA和NaHCO3对还原态绿脱石还原六价铀的影响"
+title: "EDTA和NaHCO<sub>3</sub>对还原态绿脱石还原六价铀的影响"
 collection: publications
 category: conferences
 permalink: /publication/2023-05-07-paper-title-number-8
