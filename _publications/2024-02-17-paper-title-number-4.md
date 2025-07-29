@@ -3,7 +3,7 @@ title: "Minerals to support biological nitrogen fixation on early Earth"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'Yizhi Sheng, Xinyi Zhou, Xiaowen Zhang, Dongyi Guo, Shuaidi Wang, and Hailiang Dong'
+excerpt: 'Yizhi Sheng, Xinyi Zhou, Xiaowen Zhang, Dongyi Guo, _**Shuaidi Wang**_, and Hailiang Dong'
 date: 2025-07-11
 venue: 'Goldschmidt Conference'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
