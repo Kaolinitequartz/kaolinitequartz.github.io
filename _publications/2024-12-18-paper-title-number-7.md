@@ -2,7 +2,7 @@
 title: "Effects of EDTA and Bicarbonate on U(VI) Reduction by Reduced Nontronite"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-02-19-paper-title-number-6
+permalink: /publication/2024-12-18-paper-title-number-7
 excerpt: '**Shuaidi Wang**, Yu Chen, Zezhen Pan, Juan Liu, Yuefei Ding, Yuheng Wang, Dong Liu, Songlin Wu, Dafu Hu, Runjie Li, Qingyin Xia, Limin Zhang, and Hailiang Dong'
 date: 2024-12-18
 venue: 'Environmental Science & Technology'
