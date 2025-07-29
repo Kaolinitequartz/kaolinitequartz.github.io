@@ -3,7 +3,7 @@ title: "Implications for the origin of nitrogenase: Trace metals from pyrite as 
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'Xiaowen Zhang, Yizhi Sheng, Hailiang Dong, Xinyi Zhou, and Shuaidi Wang'
 date: 2024-08-21
 venue: '2024 Goldschmidt Conference'
 ---
