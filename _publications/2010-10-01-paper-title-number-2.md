@@ -6,7 +6,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: '_**王帅迪**_，阮 壮，王一鸣，吴劲岳'
 date: 2021-12-01
 venue: '四川地质学报'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'paperurl: 'http://kaolinitequartz.github.io/files/2021, Wang et al., SCDZXB.pdf'
 ---
 摘要
 
