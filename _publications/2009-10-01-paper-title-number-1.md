@@ -3,7 +3,7 @@ title: "Combined effects of humic substances and clay minerals on U (VI) bioredu
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Yu Chen, Limin Zhang, **Shuaidi Wang**, Qiang Zeng, Qingyin Xia, Runjie Li, Dongyi Guo, Zezhen Pan, and Hailiang Dong'
+excerpt: 'Yu Chen, Limin Zhang, _**Shuaidi Wang**_, Qiang Zeng, Qingyin Xia, Runjie Li, Dongyi Guo, Zezhen Pan, and Hailiang Dong'
 date: 2022-12-01
 venue: 'Geochimica et Cosmochimica Acta'
 paperurl: 'http://kaolinitequartz.github.io/files/2022, Chen et al., GCA.pdf'
