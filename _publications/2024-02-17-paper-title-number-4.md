@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Yizhi Sheng, Xinyi Zhou, Xiaowen Zhang, Dongyi Guo, Shuaidi Wang, and Hailiang Dong'
 date: 2025-07-11
-venue: 'Goldschmidt 2025 Conference'
+venue: 'Goldschmidt Conference'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 ---
 Abstract
