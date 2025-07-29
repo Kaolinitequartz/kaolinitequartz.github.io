@@ -3,7 +3,7 @@ title: "Implications for the origin of nitrogenase: Trace metals from pyrite as 
 collection: publications
 category: conferences
 permalink: /publication/2025-06-08-paper-title-number-5
-excerpt: 'Xiaowen Zhang, Yizhi Sheng, Hailiang Dong, Xinyi Zhou, and Shuaidi Wang'
+excerpt: 'Xiaowen Zhang, Yizhi Sheng, Hailiang Dong, Xinyi Zhou, and _**Shuaidi Wang**_'
 date: 2024-08-21
 venue: 'Goldschmidt Conference'
 ---
