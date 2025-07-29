@@ -8,5 +8,6 @@ date: 2021-12-01
 venue: '四川地质学报'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
+摘要
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+作为华北克拉通经吕梁运动后的首次盖层沉积，长城系的沉积时代和沉积背景对认识中元古代地壳演化及古地理变迁至关重要。粒度分析可以反映沉积作用的流体力学性质，为沉积介质能量的衡量、岩石沉积环境的划分、沉积水动力条件的确定提供重要的依据。本文基于岩石学和沉积学的基本理论，通过对北京昌平南口地区常州沟组砂岩的粒度测定与统计，开展了常州沟组砂岩沉积介质动力条件及其沉积环境的研究，结果表明：阴极发光技术对变质砂岩中颗粒和成岩胶结物的区分具有明显的优势。北京昌平南口地区常州沟组下部水动力条件相对较强，为河流相沉积环境；中部水动力条件较弱，沉积物较细，为潮坪沉积环境。在太古代片麻岩基底上沉积的常州沟组下部发育于河流相背景下，随后燕辽裂陷海的形成和持续性的海侵使研究区由海湾环境演变为滨岸。相关认识为北京周边地区中元古代的古地理及古地貌研究提供了新的素材。
