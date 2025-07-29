@@ -3,7 +3,7 @@ title: "北京昌平南口地区常州沟组砂岩粒度分析及其沉积学意
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: '王帅迪，阮 壮，王一鸣，吴劲岳'
 date: 2021-12-01
 venue: '四川地质学报'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
