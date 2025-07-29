@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Shuaidi Wang"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student, CUGB"
+  bio              : "PhD student"
   location         : "Beijing"
-  employer         : "Red Brick University"
+  employer         : "China University of Geosciences, Beijing"
   uri              : # URL
   email            : "shuaidiw@email.cugb.edu.cn" 
 
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0005-6264-9088"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Shuaidi-Wang-2"
   scopus           : # URL
 
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
