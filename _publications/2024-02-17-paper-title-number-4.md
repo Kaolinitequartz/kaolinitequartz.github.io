@@ -1,5 +1,5 @@
 ---
-title: "Uranium contamination mediating soil and ore microbial community assembly at four mining sites, South China"
+title: "Minerals to support biological nitrogen fixation on early Earth"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
